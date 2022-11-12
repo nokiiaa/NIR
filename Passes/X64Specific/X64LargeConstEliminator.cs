@@ -1,6 +1,5 @@
 ﻿using NIR.Instructions;
 using NIR.Passes.RegAlloc;
-using System.Collections.Generic;
 
 namespace NIR.Passes.X64Specific
 {

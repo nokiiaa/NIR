@@ -2,9 +2,7 @@
 using NIR.Passes;
 using NIR.Passes.Optimize;
 using NIR.Passes.RegAlloc;
-using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace NIR
 {

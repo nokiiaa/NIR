@@ -2,7 +2,7 @@
 
 A compiler infrastructure framework that utilizes a intermediate representation for the purpose of optimization and register allocation.
 
-*Note: this is an old project and is likely to be buggy.*
+*Note: this is an old project and is likely to be buggy, but has some potential.*
 
 # Features
 - **Greedy register allocation**
