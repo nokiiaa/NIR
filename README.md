@@ -12,6 +12,5 @@ A compiler infrastructure framework that utilizes a intermediate representation 
   - _Constant propagation_
   - _Dead code elimination_
   - _Redundancy elimination_
-  - _Branch_
 - **Backends for:**
   - _x64_ __(floating-point capacity unimplemented as of Nov 2022)__
